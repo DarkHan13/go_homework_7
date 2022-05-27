@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//function
+
 func fibonacci() func() int {
 	first := 0
 	second := 0
